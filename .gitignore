@@ -1,4 +1,5 @@
 # Ignored files
+.vscode/
 *~
 *.suo
 *.sdf
